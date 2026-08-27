@@ -25,7 +25,7 @@ The project focuses on learning how to:
 * Prepare professional QA documentation
 * Generate a final Test Summary Report
 
-> **Note:** This is an independent self-learning project and is not affiliated with or endorsed by Apple, AirPods, or any other device manufacturer.
+> **Note:** This is an independent educational project created for self-learning and practical QA testing experience using commercially available TWS hardware.
 
 ---
 
