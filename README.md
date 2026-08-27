@@ -25,7 +25,7 @@ The project focuses on learning how to:
 * Prepare professional QA documentation
 * Generate a final Test Summary Report
 
-> **Note:** This is an independent educational project created for self-learning and practical QA testing experience using commercially available TWS hardware.
+> **Note:** This is an independent educational project created for self-learning and practical QA testing experience using commercially available True Wireless Stereo (TWS) hardware.
 
 ---
 
