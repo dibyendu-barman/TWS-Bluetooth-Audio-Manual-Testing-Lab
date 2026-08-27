@@ -19,3 +19,4 @@ This section contains research and study material related to TWS Bluetooth audio
 ## Training Objective
 
 The objective is to understand the product domain and testing requirements before developing test cases.
+
