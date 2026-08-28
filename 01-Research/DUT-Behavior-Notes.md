@@ -88,3 +88,24 @@ User interaction required: Yes
 Device status after pairing: Active
 
 Observation: Displaying DUT name: Airdopes Joy. Status: Active; Battery: 100%
+
+Audio playback: Pass
+Left audio: Pass
+Right audio: Pass
+Pause: Pass
+Resume: Pass
+Volume control: Pass
+
+Observation: Audio playback is working fine.
+
+Bluetooth OFF behavior: Music Pause
+
+Bluetooth ON behavior: Auto-connected
+
+Automatic reconnection: Yes
+
+Manual reconnection required: No
+
+Audio recovered: No
+
+Observation: Automatic reconnection happens after Bluetooth turns on, but music pauses.
