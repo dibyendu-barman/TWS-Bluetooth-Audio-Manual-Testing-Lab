@@ -69,79 +69,12 @@ Questions:
 
 ## 8. Observations
 
-# Day 2 Observations
+## Day 2 Observations
+Date: 28/08/2026
+Time: 8:49 PM
 
-## Bluetooth Discovery
-
-Device Name:
--
-
-Device discovered:
--
-
-Approximate discovery time:
--
-
-Observation:
--
-
-## Pairing
-
-Pairing successful:
--
-
-Approximate pairing time:
--
-
-User interaction required:
--
-
-Observation:
--
-
-## Audio
-
-Audio playback:
--
-
-Left earbud:
--
-
-Right earbud:
--
-
-Pause:
--
-
-Resume:
--
-
-Volume:
--
-
-## Disconnect / Reconnect
-
-Bluetooth OFF behavior:
--
-
-Bluetooth ON behavior:
--
-
-Automatic reconnection:
--
-
-Audio recovery:
--
-
-Observation:
--
-
-## Questions / Unknowns
-
--
-
--
-
--
-
--
+Device Name: Airdopes Joy
+Device discovered: Yes
+Approximate discovery time: 3 Sec
+Device previously paired: Yes
+Observation: Device appeared approximately 3 seconds after opening the case.
