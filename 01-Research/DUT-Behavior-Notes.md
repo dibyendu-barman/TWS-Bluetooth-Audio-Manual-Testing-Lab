@@ -69,6 +69,77 @@ Questions:
 
 ## 8. Observations
 
-Record actual observations during testing.
+# Day 2 Observations
 
-Do not assume expected behavior before testing.
+## Bluetooth Discovery
+
+Device Name:
+-
+
+Device discovered:
+-
+
+Approximate discovery time:
+-
+
+Observation:
+-
+
+## Pairing
+
+Pairing successful:
+-
+
+Approximate pairing time:
+-
+
+User interaction required:
+-
+
+Observation:
+-
+
+## Audio
+
+Audio playback:
+-
+
+Left earbud:
+-
+
+Right earbud:
+-
+
+Pause:
+-
+
+Resume:
+-
+
+Volume:
+-
+
+## Disconnect / Reconnect
+
+Bluetooth OFF behavior:
+-
+
+Bluetooth ON behavior:
+-
+
+Automatic reconnection:
+-
+
+Audio recovery:
+-
+
+Observation:
+-
+
+## Questions / Unknowns
+
+-
+
+-
+
+-
