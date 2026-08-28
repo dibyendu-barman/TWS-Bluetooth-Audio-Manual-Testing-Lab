@@ -77,4 +77,14 @@ Device Name: Airdopes Joy
 Device discovered: Yes
 Approximate discovery time: 3 Sec
 Device previously paired: Yes
-Observation: Device appeared approximately 3 seconds after opening the case.
+Observation: Device appeared approximately 2-3 seconds after opening the case.
+
+Pairing successful: Yes
+
+Pairing time: Approximately 3 seconds
+
+User interaction required: Yes
+
+Device status after pairing: Active
+
+Observation: Displaying DUT name: Airdopes Joy. Status: Active; Battery: 100%
