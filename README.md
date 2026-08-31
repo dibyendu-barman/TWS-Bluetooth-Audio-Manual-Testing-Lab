@@ -576,3 +576,73 @@ All testing is performed using publicly available information and personally acc
 ### Status
 
 🟢 Day 1 Completed
+
+---
+
+## Day 2 — TWS Architecture & Bluetooth Fundamentals
+
+### Completed
+
+- [x] Studied TWS architecture
+- [x] Studied Bluetooth fundamentals
+- [x] Studied A2DP
+- [x] Studied AVRCP
+- [x] Studied HFP
+- [x] Studied GAP
+- [x] Studied GATT
+- [x] Studied pairing vs connection
+- [x] Performed Bluetooth discovery observation
+- [x] Performed pairing observation
+- [x] Performed connection observation
+- [x] Performed audio verification
+- [x] Performed Bluetooth disconnect observation
+- [x] Performed Bluetooth reconnect observation
+- [x] Recorded actual DUT behavior
+
+### Documentation
+
+- `01-Research/Bluetooth-Fundamentals.md`
+- `01-Research/TWS-Architecture.md`
+- `01-Research/DUT-Behavior-Notes.md`
+
+### Key Learning
+
+```text
+A2DP  → Audio Streaming
+AVRCP → Media Control
+HFP   → Voice / Hands-Free Communication
+GAP   → Device Access / Discovery / Connection Procedures
+GATT  → Structured BLE Data
+
+### Status
+
+🟢 Day 2 Completed
+
+---
+
+## Day 3 — Bluetooth Connection States & Scenarios
+
+### Completed
+
+- [x] Studied Bluetooth connection states
+- [x] Studied discovery
+- [x] Studied pairing
+- [x] Studied connection
+- [x] Studied disconnection
+- [x] Studied reconnection
+- [x] Studied re-pairing
+- [x] Tested Bluetooth OFF/ON
+- [x] Tested out-of-range recovery
+- [x] Tested host restart recovery
+- [x] Tested re-pairing
+- [x] Created Bluetooth scenario matrix
+- [x] Performed repeated scenario testing
+
+### Documentation
+
+- `01-Research/Bluetooth-Connection-States.md`
+- `01-Research/Bluetooth-Scenario-Matrix.md`
+
+### Status
+
+🟢 Day 3 Completed
