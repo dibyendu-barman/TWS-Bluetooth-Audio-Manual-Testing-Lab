@@ -613,6 +613,7 @@ AVRCP → Media Control
 HFP   → Voice / Hands-Free Communication
 GAP   → Device Access / Discovery / Connection Procedures
 GATT  → Structured BLE Data
+```
 
 ### Status
 
