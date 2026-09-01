@@ -109,3 +109,55 @@ Manual reconnection required: No
 Audio recovered: No
 
 Observation: Automatic reconnection happens after Bluetooth turns on, but music pauses.
+
+# Day 4 Audio Observations
+
+## Stereo
+
+Left-channel test: Sounds Good
+
+Right-channel test: Sounds Good
+
+Left/right balance: Both are ok
+
+## Silence / Noise
+
+Background noise observed: No background noise
+
+Observation: In silence audio, there is no background noise
+
+## Frequency
+
+100 Hz:
+
+1 kHz:
+
+10 kHz:
+
+## Volume
+
+Minimum:
+
+Low:
+
+Medium:
+
+High:
+
+Maximum:
+
+## Audio Interruption
+
+Bluetooth OFF: Audio paused due to disconnection
+
+Bluetooth ON: Audio paused after Bluetooth turned ON.
+
+Audio recovery: Must be turned ON to play the audion/music.
+
+## Windows Comparison
+
+Android audio behavior: After connecting Airdopes Joy to my Android mobile, if I am playing music, both the left and right channels work well.
+
+Windows audio behavior: After connecting Airdopes Joy to my Windows system, if I am playing music, both the left and right channels work well.
+
+Differences observed: No differences, for both device Airpodes Joy working as expected.
